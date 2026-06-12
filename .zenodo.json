@@ -1,0 +1,28 @@
+{
+  "title": "Microscopic Observational Relativity (MOR) / 微观观测相对论：基于多维投影结构的量子实在性重构",
+  "description": "Microscopic Observational Relativity (MOR) is an ontological interpretational framework for quantum mechanics, independently developed by a non-professional researcher based on physical intuition. The core claim: micro-reality is relational, projective, and non-globally visible; observation factualises one cross-section (Sigma_M) of the complete projective structure (Omega_Q) within a specific observational reference frame M. The theory maintains a weak version (compatible with standard QM, Born rule preserved) and envisions a strong version with constrained deviation terms delta_i^MOR. This repository archives the complete version history from the initial MPQT draft (2025-05) through MOR v4.1 (2026-06) and the v5.0 strong-version launch draft.",
+  "creators": [
+    {
+      "name": "Qiu, Liangjun",
+      "affiliation": "Independent researcher",
+      "orcid": ""
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "quantum foundations",
+    "quantum interpretation",
+    "relational quantum mechanics",
+    "measurement problem",
+    "wavefunction collapse",
+    "quantum entanglement",
+    "spacetime emergence",
+    "observational reference frame",
+    "Born rule",
+    "decoherence"
+  ],
+  "notes": "This work was independently conceived without prior systematic study of the quantum foundations literature. Post-hoc comparison reveals partial independent overlap with Relational Quantum Mechanics (Rovelli 1996), quantum Darwinism (Zurek 2003), and spacetime-from-entanglement research (Van Raamsdonk 2010). The repository preserves all historical versions unmodified to document the intellectual evolution of an independent researcher.",
+  "upload_type": "publication",
+  "publication_type": "preprint"
+}

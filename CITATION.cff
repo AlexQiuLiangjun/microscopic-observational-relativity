@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+title: >-
+  Microscopic Observational Relativity (MOR) /
+  微观观测相对论：基于多维投影结构的量子实在性重构
+message: >-
+  If you use or reference this work, please cite it using the metadata below.
+  如需引用本理论，请使用以下格式。
+type: software
+authors:
+  - family-names: Qiu
+    given-names: Liangjun
+    alias: Alex Qiu
+    email: alex_qiu@unitedtex.com
+repository-code: >-
+  https://github.com/AlexQiuLiangjun/microscopic-observational-relativity
+abstract: >-
+  Microscopic Observational Relativity (MOR) proposes that quantum reality
+  should be understood neither as the absence of a definite state before
+  observation, nor as the parallel unfolding of multiple classical worlds.
+  The more defensible view is that micro-reality is relational, projective,
+  and non-globally visible in structure; observation does not create the world
+  but factualises one cross-section of the complete structure within a specific
+  observational reference frame. The theory develops through a weak version
+  (ontological reinterpretation of QM, preserving Born rule and all established
+  experimental facts) and envisions a strong version (introducing constrained
+  deviation terms subject to no-signalling, normalisation, and classical-limit
+  constraints). This repository records the full version history from the
+  initial draft (MPQT, 2025-05) through the current release.
+keywords:
+  - quantum foundations
+  - quantum interpretation
+  - relational quantum mechanics
+  - measurement problem
+  - wavefunction collapse
+  - quantum entanglement
+  - spacetime emergence
+  - observational reference frame
+license: CC-BY-4.0
+version: "4.1"
+date-released: "2026-06-12"
