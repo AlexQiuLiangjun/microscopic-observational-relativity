@@ -14,9 +14,10 @@
 
 当前建议首先阅读：
 
-- [MOR academic-v0.1：对关系量子力学中相对事实、未显现域与切面不变量的本体论重构](papers/MOR_academic_reconstruction_v0.1.md)
+- 中文版：[MOR academic-v0.1：对关系量子力学中相对事实、未显现域与切面不变量的本体论重构](papers/MOR_academic_reconstruction_v0.1.md)
+- English edition: [MOR academic-v0.1: An Ontological Reconstruction of Relative Facts, Unmanifested Domains, and Slice Invariants](papers/MOR_academic_reconstruction_v0.1_en.md)
 
-该版本是面向 GitHub / Zenodo / PhilSci-Archive 留痕的公开定稿，发布时间为 2026-06-30。它不把 MOR 表述为替代标准量子力学的新动力学理论，而是定位为量子力学本体论诠释框架：在关系量子力学、退相干、量子达尔文主义与量子参照系研究附近，讨论“相对事实”“未显现域”“观测切面”“切面不变量”和“公共投影面”的本体论含义。
+该版本是面向 GitHub / Zenodo / PhilSci-Archive 留痕的公开定稿，发布时间为 2026-06-30，并保留中英文两个版本。它不把 MOR 表述为替代标准量子力学的新动力学理论，而是定位为量子力学本体论诠释框架：在关系量子力学、退相干、量子达尔文主义与量子参照系研究附近，讨论“相对事实”“未显现域”“观测切面”“切面不变量”和“公共投影面”的本体论含义。
 
 ## 版本演化
 
