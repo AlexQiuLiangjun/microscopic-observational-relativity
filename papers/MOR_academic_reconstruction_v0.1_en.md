@@ -4,6 +4,10 @@
 
 Academic reconstruction draft academic-v0.1 | English edition | GitHub first public version | 2026-06-30
 
+Version DOI: [10.5281/zenodo.21068159](https://doi.org/10.5281/zenodo.21068159)
+
+Project Concept DOI: [10.5281/zenodo.21068158](https://doi.org/10.5281/zenodo.21068158)
+
 ## Abstract
 
 This paper repositions Microscopic Observational Relativity (MOR) as an ontological interpretive framework for quantum mechanics, rather than as an alternative dynamical theory intended to replace standard quantum mechanics. It explicitly acknowledges substantial overlap with relational quantum mechanics (RQM), decoherence theory, quantum Darwinism, and quantum reference frame (QRF) research. Its aim is not to claim a wholly new physical theory, but to formulate three possible contributions within that existing landscape: the positive ontological status of unmanifested domains, a systematic distinction between observational slices and slice invariants, and the commitment that the microscopic relational domain may be prior to macroscopic space.

@@ -6,6 +6,10 @@ Microscopic Observational Relativity: An Ontological Reconstruction of Relative 
 
 学术论文重构稿 academic-v0.1 | GitHub 首发定稿 | 2026-06-30
 
+版本 DOI：[10.5281/zenodo.21068159](https://doi.org/10.5281/zenodo.21068159)
+
+项目 Concept DOI：[10.5281/zenodo.21068158](https://doi.org/10.5281/zenodo.21068158)
+
 ## 摘要
 
 本文将“微观观测相对论”（Microscopic Observational Relativity, MOR）重新定位为一种量子力学本体论诠释框架，而非替代标准量子力学的动力学理论。本文承认 MOR 与关系量子力学（RQM）、退相干理论、量子达尔文主义以及量子参照系（QRF）文献存在显著重叠；其目标不是宣称全新物理理论，而是在这些已有路线的语境中提出三个可讨论的增量：未显现域的正面本体论地位、观测切面与跨切面不变量的系统区分、以及微观关系域先于宏观空间的涌现性承诺。

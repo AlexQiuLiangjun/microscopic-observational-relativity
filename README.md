@@ -2,6 +2,8 @@
 
 **Microscopic Observational Relativity / Multidimensional Projection Quantum Theory**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21068159.svg)](https://doi.org/10.5281/zenodo.21068159)
+
 一个由独立研究者提出的量子力学诠释框架：把量子叠加理解为多维投影结构的真实共存，把观测理解为对"观测参照系"的选择与切面事实化，而非波函数的物理坍缩。本仓库以版本演化的方式完整记录该理论从 2025 年 5 月初稿（MPQT）到后续各版本（MOR）的发展过程。
 
 ## 诚实声明（Positioning Statement）
@@ -18,6 +20,11 @@
 - English edition: [MOR academic-v0.1: An Ontological Reconstruction of Relative Facts, Unmanifested Domains, and Slice Invariants](papers/MOR_academic_reconstruction_v0.1_en.md)
 
 该版本是面向 GitHub / Zenodo / PhilSci-Archive 留痕的公开定稿，发布时间为 2026-06-30，并保留中英文两个版本。它不把 MOR 表述为替代标准量子力学的新动力学理论，而是定位为量子力学本体论诠释框架：在关系量子力学、退相干、量子达尔文主义与量子参照系研究附近，讨论“相对事实”“未显现域”“观测切面”“切面不变量”和“公共投影面”的本体论含义。
+
+Zenodo DOI：
+
+- academic-v0.1 版本 DOI：[10.5281/zenodo.21068159](https://doi.org/10.5281/zenodo.21068159)
+- 项目 Concept DOI：[10.5281/zenodo.21068158](https://doi.org/10.5281/zenodo.21068158)
 
 ## 版本演化
 
@@ -50,4 +57,6 @@
 
 ## 引用
 
-如需引用本理论，请引用本仓库（后续将通过 Zenodo 为各版本提供 DOI）。
+如需引用 academic-v0.1，请优先使用版本 DOI：[10.5281/zenodo.21068159](https://doi.org/10.5281/zenodo.21068159)。
+
+如需引用整个持续演化项目，请使用 Concept DOI：[10.5281/zenodo.21068158](https://doi.org/10.5281/zenodo.21068158)。

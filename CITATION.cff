@@ -42,6 +42,7 @@ keywords:
 license: CC-BY-4.0
 version: "academic-v0.1"
 date-released: "2026-06-30"
+doi: 10.5281/zenodo.21068159
 preferred-citation:
   type: generic
   title: >-
@@ -54,5 +55,6 @@ preferred-citation:
       alias: Alex Qiu
   year: 2026
   month: 6
+  doi: 10.5281/zenodo.21068159
   url: >-
-    https://github.com/AlexQiuLiangjun/microscopic-observational-relativity
+    https://doi.org/10.5281/zenodo.21068159
