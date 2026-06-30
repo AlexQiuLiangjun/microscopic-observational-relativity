@@ -11,6 +11,7 @@ authors:
   - family-names: Qiu
     given-names: Liangjun
     alias: Alex Qiu
+    orcid: "https://orcid.org/0009-0009-0065-3857"
     email: alex_qiu@unitedtex.com
 repository-code: >-
   https://github.com/AlexQiuLiangjun/microscopic-observational-relativity
@@ -53,6 +54,7 @@ preferred-citation:
     - family-names: Qiu
       given-names: Liangjun
       alias: Alex Qiu
+      orcid: "https://orcid.org/0009-0009-0065-3857"
   year: 2026
   month: 6
   doi: 10.5281/zenodo.21068159
