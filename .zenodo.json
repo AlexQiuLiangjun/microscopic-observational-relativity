@@ -1,6 +1,6 @@
 {
-  "title": "Microscopic Observational Relativity (MOR) / 微观观测相对论：基于多维投影结构的量子实在性重构",
-  "description": "Microscopic Observational Relativity (MOR) is an ontological interpretational framework for quantum mechanics, independently developed by a non-professional researcher based on physical intuition. The core claim: micro-reality is relational, projective, and non-globally visible; observation factualises one cross-section (Sigma_M) of the complete projective structure (Omega_Q) within a specific observational reference frame M. The theory maintains a weak version (compatible with standard QM, Born rule preserved) and envisions a strong version with constrained deviation terms delta_i^MOR. This repository archives the complete version history from the initial MPQT draft (2025-05) through MOR v4.1 (2026-06) and the v5.0 strong-version launch draft.",
+  "title": "Microscopic Observational Relativity (MOR): An Ontological Reconstruction of Relative Facts, Unmanifested Domains, and Slice Invariants",
+  "description": "Microscopic Observational Relativity (MOR) is presented as an ontological interpretational framework for quantum mechanics, not as a replacement dynamics for standard quantum theory. The academic-v0.1 draft positions MOR near relational quantum mechanics, decoherence, quantum Darwinism, and quantum reference frame research, while proposing three discussion points: the ontological status of unmanifested relational structure, the distinction between observational slices and slice-invariant structure, and the possible emergence of macroscopic space from a microscopic relational domain. The weak version does not derive the Born rule, introduce new experimental deviations, or claim to solve the full measurement problem.",
   "creators": [
     {
       "name": "Qiu, Liangjun",
@@ -14,15 +14,16 @@
     "quantum foundations",
     "quantum interpretation",
     "relational quantum mechanics",
+    "relative facts",
     "measurement problem",
     "wavefunction collapse",
     "quantum entanglement",
-    "spacetime emergence",
-    "observational reference frame",
-    "Born rule",
-    "decoherence"
+    "decoherence",
+    "quantum Darwinism",
+    "quantum reference frames",
+    "spacetime emergence"
   ],
-  "notes": "This work was independently conceived without prior systematic study of the quantum foundations literature. Post-hoc comparison reveals partial independent overlap with Relational Quantum Mechanics (Rovelli 1996), quantum Darwinism (Zurek 2003), and spacetime-from-entanglement research (Van Raamsdonk 2010). The repository preserves all historical versions unmodified to document the intellectual evolution of an independent researcher.",
+  "notes": "This work was independently conceived by a non-professional physics researcher and is published as a public, citable, versioned record. Post-hoc comparison reveals partial overlap with relational quantum mechanics, stable/relative facts, decoherence, quantum Darwinism, quantum reference frame research, and spacetime-from-entanglement literature. Historical versions are preserved in the repository to document the development of the idea.",
   "upload_type": "publication",
   "publication_type": "preprint"
 }

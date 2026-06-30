@@ -1,7 +1,8 @@
 cff-version: 1.2.0
 title: >-
-  Microscopic Observational Relativity (MOR) /
-  微观观测相对论：基于多维投影结构的量子实在性重构
+  Microscopic Observational Relativity (MOR):
+  An Ontological Reconstruction of Relative Facts,
+  Unmanifested Domains, and Slice Invariants
 message: >-
   If you use or reference this work, please cite it using the metadata below.
   如需引用本理论，请使用以下格式。
@@ -14,27 +15,44 @@ authors:
 repository-code: >-
   https://github.com/AlexQiuLiangjun/microscopic-observational-relativity
 abstract: >-
-  Microscopic Observational Relativity (MOR) proposes that quantum reality
-  should be understood neither as the absence of a definite state before
-  observation, nor as the parallel unfolding of multiple classical worlds.
-  The more defensible view is that micro-reality is relational, projective,
-  and non-globally visible in structure; observation does not create the world
-  but factualises one cross-section of the complete structure within a specific
-  observational reference frame. The theory develops through a weak version
-  (ontological reinterpretation of QM, preserving Born rule and all established
-  experimental facts) and envisions a strong version (introducing constrained
-  deviation terms subject to no-signalling, normalisation, and classical-limit
-  constraints). This repository records the full version history from the
-  initial draft (MPQT, 2025-05) through the current release.
+  Microscopic Observational Relativity (MOR) is presented here as an
+  ontological interpretational framework for quantum mechanics, rather than as
+  a replacement dynamics for standard quantum theory. The draft positions MOR
+  near relational quantum mechanics, decoherence, quantum Darwinism, and
+  quantum reference frame research, and proposes three discussion points:
+  the ontological status of unmanifested relational structure, the distinction
+  between observational slices and slice-invariant structure, and the possible
+  emergence of macroscopic space from a microscopic relational domain. This
+  academic-v0.1 draft is intended as a public, citable, versioned record for
+  GitHub and Zenodo, while explicitly preserving the limits of the weak version:
+  it does not derive the Born rule, introduce new experimental deviations, or
+  claim to solve the full measurement problem.
 keywords:
   - quantum foundations
   - quantum interpretation
   - relational quantum mechanics
+  - relative facts
   - measurement problem
   - wavefunction collapse
   - quantum entanglement
+  - decoherence
+  - quantum Darwinism
+  - quantum reference frames
   - spacetime emergence
-  - observational reference frame
 license: CC-BY-4.0
-version: "4.1"
-date-released: "2026-06-12"
+version: "academic-v0.1"
+date-released: "2026-06-30"
+preferred-citation:
+  type: generic
+  title: >-
+    Microscopic Observational Relativity (MOR):
+    An Ontological Reconstruction of Relative Facts,
+    Unmanifested Domains, and Slice Invariants
+  authors:
+    - family-names: Qiu
+      given-names: Liangjun
+      alias: Alex Qiu
+  year: 2026
+  month: 6
+  url: >-
+    https://github.com/AlexQiuLiangjun/microscopic-observational-relativity
